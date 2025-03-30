@@ -31,6 +31,22 @@ const sounds = {
             title: "Too late",
             src: "david/too-late-its-already-done.m4a",
         },
+        {
+            title: "Blewskarooni 1",
+            src: "david/blewska-david.m4a",
+        },
+        {
+            title: "Blewskarooni 2",
+            src: "david/blewska-david-2.m4a",
+        },
+        {
+            title: "Cadaveriffic",
+            src: "david/cadaveriffic-david.m4a",
+        },
+        {
+            title: "Crunch",
+            src: "david/crunch.m4a",
+        },
     ],
     Brad: [
         {
@@ -48,6 +64,18 @@ const sounds = {
         {
             title: "With piss",
             src: "brad/with-piss.m4a",
+        },
+        {
+            title: "Normal laughter",
+            src: "brad/black-metal-laugh.m4a",
+        },
+        {
+            title: "Blewskarooni",
+            src: "brad/blewska-brad.m4a",
+        },
+        {
+            title: "Take it home...",
+            src: "brad/take-it-home.m4a",
         },
     ],
 };
