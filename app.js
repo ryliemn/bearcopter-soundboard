@@ -7,11 +7,47 @@ const sounds = {
             title: "Fuck you Brad",
             src: "david/fuck-you-brad.m4a",
         },
+        {
+            title: "Aww come on guys",
+            src: "david/aww-come-on-guys.m4a",
+        },
+        {
+            title: "Count in",
+            src: "david/count-in.m4a",
+        },
+        {
+            title: "We don't need him",
+            src: "david/fuck-brad-we-dont-need-him.m4a",
+        },
+        {
+            title: "*giggle*",
+            src: "david/giggle.m4a",
+        },
+        {
+            title: "I worked really hard on this!",
+            src: "david/i-worked-really-hard-on-this-shit.m4a",
+        },
+        {
+            title: "Too late",
+            src: "david/too-late-its-already-done.m4a",
+        },
     ],
     Brad: [
         {
             title: "What the fuck",
             src: "brad/what-the-fuck.m4a",
+        },
+        {
+            title: "Are these chips?",
+            src: "brad/are-these-chips.m4a",
+        },
+        {
+            title: "Cock",
+            src: "brad/cock.m4a",
+        },
+        {
+            title: "With piss",
+            src: "brad/with-piss.m4a",
         },
     ],
 };
